@@ -1,9 +1,9 @@
 ---
 layout: post
-title: android 知识
-category: 只是
-tags: android
-keywords: android
+title: 生活
+category: 生活
+tags: 生活
+keywords: 生活
 description: 
 ---
 
