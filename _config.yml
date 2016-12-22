@@ -14,15 +14,15 @@ filter: 'category'
 recent_num: 20
 
 # Social account
-twitter: masonsuyan
+# twitter: masonsuyan
 weibo: suyan0830
 github: lihongjiang
-#instagram: suyan0830
-#linkedin: suyan0830
+# instagram: suyan0830
+# linkedin: suyan0830
 
 # avatar and Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: https://avatars3.githubusercontent.com/u/5258153?v=3&s=460
+favicon: https://avatars3.githubusercontent.com/u/5258153?v=3&s=460
 
 # disqus config
 disqus:
