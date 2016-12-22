@@ -1,7 +1,7 @@
 ---
 layout: post
 title: android 知识
-category: android
+category: 只是
 tags: android
 keywords: android
 description: 
