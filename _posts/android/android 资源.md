@@ -1,9 +1,9 @@
 ---
 layout: post
-title: JavaScript 常用资源
-category: 资源
-tags: JavaScript
-keywords: JavaScript
+title: android 知识
+category: android
+tags: android
+keywords: android
 description: 
 ---
 
