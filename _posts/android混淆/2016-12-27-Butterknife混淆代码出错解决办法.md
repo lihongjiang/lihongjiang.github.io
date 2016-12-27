@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Android Studio使用Butterknife混淆代码出错解决办法
+title: Butterknife混淆代码
 category: 混淆专题
 tags: proguard
 keywords: Butterknife
-description: 
+description: Android Studio使用Butterknife混淆代码出错解决办法
 ---
 
-### 文章引用出处：[www.cnblogs.com/bestcolin/p/5551958.html](www.cnblogs.com/bestcolin/p/5551958.html) 
+### 文章引用出处：[https://www.cnblogs.com/bestcolin/p/5551958.html](https://www.cnblogs.com/bestcolin/p/5551958.html) 
 
 ###  在proguard-rules.pro混淆规则文件中添加：
 
