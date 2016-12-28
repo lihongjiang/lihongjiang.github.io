@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Butterknife混淆代码
-category: 混淆专题
+category: 开发工具
 tags: proguard
 keywords: Butterknife
 description: Android Studio使用Butterknife混淆代码出错解决办法
